@@ -5,14 +5,16 @@ Synopsis
 --------------
 A social network application that retrieves different types of media from different backend systems.
 
-Features:
+Features
+--------------
 - Time line feeds
 - Friend recommendation system
 - Follower, Followee's posts
 - User Profile
 - User login
 
-Technology/Techniques:
+Technology/Techniques
+--------------
 - Real time data processing with Spark
 - MySQL: authentication information
 - HBase: social graph
